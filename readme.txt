@@ -14,7 +14,7 @@ This plugin let you display different content for different audience based on th
 
 WP Geo Based Content plugin was designed to give you the ability to display different texts, banners, hyperlinks etc. to different audiences.
 
-For example, you can display a benner in Englsh to North American / British audience and a banner in Arabic to Arab countries audience.
+For example, you can display a banner in English to North American / British audience and a banner in Arabic to Arab countries audience.
 You can even display the same hyper link to all audiences but the underlying url can be different based on the user geo-location.
 
 The possibilties here are numerous!
