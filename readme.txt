@@ -67,6 +67,6 @@ Yes you can. You can donate here ==>http://bit.ly/WPGeoPlugin for adding more fu
 == Screenshots ==
 
 1. The main page of WP Geo Based Content plugin where you can see all existing campaigns, manage them and create new ones.
-2. Creating a new shortode screen.
+2. Creating a new shortcode screen.
 3. A new shortcode that has just been created.
 
