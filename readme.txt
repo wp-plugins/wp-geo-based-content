@@ -22,7 +22,7 @@ The possibilties here are numerous!
 This all can be done by following these 3 easy steps:
 *	Define your content, your desired geo-location
 *	Click the Generate Shortcode button
-*	Implement the generated shortcode in your Wodpress post or page
+*	Implement the generated shortcode in your Wordpress post or page
 
 == Installation ==
 
